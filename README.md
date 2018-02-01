@@ -11,6 +11,7 @@ yarn add babel-preset-es2017
 # Installing Webpack Hot-Reloading - Video 27
 yarn add --dev webpack-dev-server react-hot-loader
 yarn add --dev react-hot-loader@next
+yarn add --dev react-hot-loader
 
 # Installing Webpack Hot-Reloading - Video 28
 yarn add react-hot-loader@next
