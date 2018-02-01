@@ -15,3 +15,8 @@ yarn add --dev react-hot-loader
 
 # Installing Webpack Hot-Reloading - Video 28
 yarn add react-hot-loader@next
+
+# Troubleshooting "public" folder and will remove subfolders
+images
+javascripts
+stylesheets
